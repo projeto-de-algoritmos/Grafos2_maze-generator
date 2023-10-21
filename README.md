@@ -23,4 +23,8 @@ agora basta clicar em um botão que um labirinto será gerado através de uma ve
 ## Uso 
 Clique no botão "Generate" para gerar o labirinto, escolha entre "Breadth First Search" e "Depth First Search" e depois clique no botão "Solve".
 
+## Explicação
+
+https://github.com/projeto-de-algoritmos/Grafos2_maze-generator/assets/72686972/905cfbdd-3ab7-4b08-acfd-d1daa9a8ab51
+
 
